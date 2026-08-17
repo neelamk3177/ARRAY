@@ -1,5 +1,4 @@
 package WEEK3;
-
 public class REPLACE {
 
 	public static void main(String[] args) {
