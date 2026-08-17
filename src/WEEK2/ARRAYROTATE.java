@@ -1,4 +1,4 @@
-package WEEK2;
+ package WEEK2;
 import java.util.Arrays;
 public class ARRAYROTATE {
 
